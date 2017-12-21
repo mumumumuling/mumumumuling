@@ -1,0 +1,75 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>夜雨寄北</title>
+<style type="text/css">
+body p {
+	text-align: center;
+}
+body h1 {
+	text-align: center;
+	font-size: 36px;
+	color: #FFF;
+	animation:myfirst 6s infinite;
+}
+body {
+	text-align: center;
+}
+body {
+	background-image: url(20120608223237_XYwvs.jpeg);
+}
+body {
+}
+p {
+	font-size: 24px;
+	color: #FFF;
+}
+body h2 {
+	color: #FFF;
+}
+@keyframes myfirst
+{
+0% {opacity:0;}
+25%{opacity:100;}
+50% {opacity:0;}
+100%{opacity:100;}
+}
+@keyframes mysecond
+{
+0% {opacity:0;}
+50%{opacity:0;}
+75% {opacity:100;}
+100%{opacity:0;}
+}
+p {
+	font-family: "楷体";               
+}
+p {
+	font-family: "楷体";
+	font-size: 24px;
+	color: #FFF;
+}
+p {
+	font-family: "楷体";
+	font-size: 28px;
+	color: #FFF;
+}
+#shang {
+	animation:myfirst 5s infinite
+}
+#xia {
+	animation:mysecond 5s infinite
+}
+</style>
+</head>
+
+<body>
+<h1>夜雨寄北</h1>
+<h2>李商隐</h2>
+<p id="shang">君问归期未有期，</p>
+<p id="shang">巴山夜雨涨秋池。</p>
+<p id="xia">何当共剪西窗烛，</p>
+<p id="xia">却话巴山夜雨时。</p>
+</body>
+</html>
